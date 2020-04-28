@@ -1,4 +1,4 @@
-Hello Git 123
+Hello Git 12 branch3
 it's new line
 <<<<<<< HEAD
 add new line
