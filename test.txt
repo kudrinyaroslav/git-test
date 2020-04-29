@@ -2,6 +2,6 @@ Hello Git 123
 it's new line
 <<<<<<< HEAD
 add new line
-123
+
 =======
 >>>>>>> parent of 600f356... Test status
